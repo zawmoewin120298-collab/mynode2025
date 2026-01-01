@@ -9,7 +9,7 @@
     },
     "streamSettings": {
       "network": "ws",
-      "wsSettings": { "path": "/gemini" }
+      "wsSettings": { "path": "/vless" }
     }
   }],
   "outbounds": [{ "protocol": "freedom" }]

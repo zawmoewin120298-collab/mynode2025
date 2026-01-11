@@ -1,4 +1,10 @@
-huggingface.co
-
-
-အတွက် vlessဖိုင်ထုပ်ဖို့အတွက်ကုဒ်ဖြစ်တယ်
+---
+title: Bbk
+emoji: 👁️
+colorFrom: blue
+colorTo: indigo
+sdk: docker
+app_port: 7860
+pinned: false
+license: apache-2.0
+---
